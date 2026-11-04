@@ -59,6 +59,9 @@ Some of my university and team projects are hosted on repositories owned by othe
 | Masroofy — Budget Management | [ROMA-129/Masroofy](https://github.com/ROMA-129/Masroofy) |
 | Y2 S1 Team Project — Midnight Coders | [ROMA-129/Y2_S1_Project2_Midnight_coders](https://github.com/ROMA-129/Y2_S1_Project2_Midnight_coders) |
 | Y2 S2 Database Project | [ROMA-129/Y2_S2_Project_DB](https://github.com/ROMA-129/Y2_S2_Project_DB) |
+| Web-FCAI | [MohamedRamy2006/Web-FCAI](https://github.com/MohamedRamy2006/Web-FCAI) |
+| OOP Assignment 3 | [bavly00programmer/OOP_Assignment3](https://github.com/bavly00programmer/OOP_Assignment3) |
+| OOP Assignment 2 | [ahmedadelsayah/A2_OOP](https://github.com/ahmedadelsayah/A2_OOP) |
 
 <p align="center">
   <a href="https://github.com/malakaladen?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-ALL_REPOSITORIES-F6D55C?style=for-the-badge&logo=github&logoColor=white&labelColor=1c3a7a"/></a>
