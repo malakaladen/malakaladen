@@ -42,10 +42,27 @@ My goal is to turn what I learn into real projects and grow into a frontend deve
 ## `> featured_projects`
 
 <p align="center">
-  <a href="https://github.com/malakaladen?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-ALL_REPOSITORIES-F6D55C?style=for-the-badge&logo=github&logoColor=white&labelColor=1c3a7a"/></a>
+  <a href="https://github.com/malakaladen/smart-study-planner"><b>Smart Study Planner</b></a> ·
+  <a href="https://github.com/malakaladen/portfolio_website"><b>Portfolio Website</b></a> ·
+  <a href="https://github.com/malakaladen/Masroofy"><b>Masroofy</b></a> ·
+  <a href="https://github.com/malakaladen/ModifiedHuffman"><b>Modified Huffman</b></a> ·
+  <a href="https://github.com/malakaladen/Lz-77_Implementaion"><b>LZ77</b></a>
 </p>
 
-Explore my repositories to discover my projects, experiments, and progress in web development.
+## `> collaborative_projects`
+
+Some of my university and team projects are hosted on repositories owned by other GitHub accounts. I contributed as a collaborator; the repositories remain under their original owners.
+
+| Project | Repository |
+|---|---|
+| Emergency Room System | [itskdash/emergency-room](https://github.com/itskdash/emergency-room) |
+| Masroofy — Budget Management | [ROMA-129/Masroofy](https://github.com/ROMA-129/Masroofy) |
+| Y2 S1 Team Project — Midnight Coders | [ROMA-129/Y2_S1_Project2_Midnight_coders](https://github.com/ROMA-129/Y2_S1_Project2_Midnight_coders) |
+| Y2 S2 Database Project | [ROMA-129/Y2_S2_Project_DB](https://github.com/ROMA-129/Y2_S2_Project_DB) |
+
+<p align="center">
+  <a href="https://github.com/malakaladen?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-ALL_REPOSITORIES-F6D55C?style=for-the-badge&logo=github&logoColor=white&labelColor=1c3a7a"/></a>
+</p>
 
 ## `> github_stats`
 
