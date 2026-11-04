@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs>
+ <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#071b3d"/><stop offset=".58" stop-color="#123c73"/><stop offset="1" stop-color="#07152f"/></linearGradient>
+ <radialGradient id="moon"><stop stop-color="#fff4b0"/><stop offset=".55" stop-color="#f8cf63"/><stop offset="1" stop-color="#d78d37"/></radialGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="320" fill="url(#sky)"/>
+<g fill="none" stroke-linecap="round" opacity=".9">
+ <path d="M-30 78 C120 8 170 150 310 84 S500 12 625 83 S820 150 940 55 S1120 15 1240 85" stroke="#2c65a0" stroke-width="25"/>
+ <path d="M-20 110 C120 45 190 180 330 108 S520 35 640 105 S825 180 950 82 S1120 45 1230 115" stroke="#477fb2" stroke-width="8"/>
+ <path d="M-30 175 C120 100 210 230 350 165 S550 90 680 165 S850 230 990 145 S1130 110 1240 175" stroke="#1d4d83" stroke-width="24"/>
+ <path d="M-20 205 C130 135 220 260 370 195 S560 125 700 198 S880 260 1010 175 S1150 140 1230 205" stroke="#3d75a7" stroke-width="8"/>
+ <path d="M40 25 C160 75 240 20 340 48 S500 95 600 35" stroke="#f0c66b" stroke-width="4"/>
+ <path d="M680 30 C760 90 845 15 920 42 S1080 95 1170 28" stroke="#e9b957" stroke-width="4"/>
+</g>
+<g fill="none" stroke="#f3cc73" stroke-width="3" opacity=".8">
+ <path d="M80 255 C180 215 260 280 360 245 S540 215 625 255"/>
+ <path d="M700 250 C790 215 870 275 960 238 S1100 215 1180 250"/>
+</g>
+<g filter="url(#glow)">
+ <circle cx="1010" cy="78" r="43" fill="url(#moon)"/>
+ <circle cx="1010" cy="78" r="57" fill="none" stroke="#f5cf72" stroke-width="2" opacity=".6"/>
+</g>
+<g fill="#ffe8a1">
+ <circle cx="90" cy="55" r="4"/><circle cx="190" cy="34" r="3"/><circle cx="420" cy="55" r="5"/><circle cx="545" cy="28" r="3"/><circle cx="680" cy="75" r="4"/><circle cx="790" cy="35" r="3"/><circle cx="880" cy="112" r="4"/><circle cx="1110" cy="160" r="3"/><circle cx="320" cy="145" r="3"/><circle cx="590" cy="150" r="3"/>
+</g>
+<g stroke="#ffdf88" stroke-width="3" stroke-linecap="round">
+ <path d="M90 34v24 M78 46h24 M420 38v34 M403 55h34 M790 20v28 M776 34h28 M880 96v30 M865 111h30"/>
+</g>
+<path d="M0 270 Q120 230 240 270 T480 266 T720 270 T960 262 T1200 270 V320 H0Z" fill="#07142b"/>
+<path d="M0 286 Q180 250 340 290 T680 284 T1000 285 T1200 280 V320 H0Z" fill="#0b2345"/>
+<g fill="#061126">
+ <path d="M850 320 Q870 220 860 165 Q890 205 882 320Z"/>
+ <path d="M866 220 Q820 205 836 165 Q855 180 866 220 M873 250 Q915 220 910 185 Q885 200 873 250"/>
+ <path d="M160 320V270h26v50 M195 320v-40h35v40 M242 320v-58h30v58"/>
+</g>
+<g fill="#f4d17b" opacity=".95">
+ <rect x="168" y="282" width="7" height="10"/><rect x="207" y="291" width="8" height="9"/><rect x="251" y="275" width="8" height="12"/>
+</g>
+<text x="58" y="145" fill="#fff0c4" font-family="Georgia,serif" font-size="49" font-style="italic">Malak Alaa Eldeen</text>
+<text x="62" y="190" fill="#d5e5ff" font-family="Arial,sans-serif" font-size="23" letter-spacing="2">IT STUDENT  •  FRONT-END DEVELOPER</text>
+<path d="M62 211h420" stroke="#e8bd65" stroke-width="3" stroke-linecap="round"/>
+<text x="62" y="250" fill="#f6d98c" font-family="Georgia,serif" font-size="18">Dream • Code • Create</text>
+</svg>
